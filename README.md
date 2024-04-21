@@ -7,18 +7,8 @@ https://github.com/termux/termux-app/releases
 ВЕРСИЯ ИЗ Google Play НЕ БУДЕТ РАБОТАТЬ
 И еще скачиваем FX File Explorer, можно из Google Play
 
-Далее вводим следующие команды:
-apt update
-apt install git -y
-apt install python -y
-apt upgrade
-pip install colorama
-pip install vk_api
-termux-setup-storage
-mkdir nakrutka
-cd nakrutka
-git clone https://github.com/xemibitch/vkpupd
-cd vkpupd
+Далее вводим следующие команды которые находятся здесь:
+https://pastebin.com/273U0yi6
 
 Теперь самый пот:
 Скачиваем вашу картинку, переименовываем в photo.jpg.
