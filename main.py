@@ -15,26 +15,26 @@ ___  __\_ |___/  |_|  |__
  >    < | \_\ \  | |   Y  \\
 /__/\_ \|___  /__| |___|  /
       \/    \/          \/ 
-              by @xbth777
+              by @xemibitch
 """
 ]
 
 warning = [
 """
-начать выполнение скрипта? (yes/no)
+начать выполнение скрипта? (y/n)
 """
 ]
 
 abort = [
 """
-оки)) (пиши yes)
+
 """
 ]
 
 print(Fore.CYAN + banner[0])
 print(Fore.CYAN + warning[0])
 choose = input('--> ')
-if choose == "yes":
+if choose == "y":
 	login1 = input("логин от страницы: ")
 	password1 = input("пароль от страницы: ")
 	album = input("id альбома: ")
