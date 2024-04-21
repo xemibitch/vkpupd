@@ -2,11 +2,7 @@
 
 Как пользоваться?
 
-Скачиваем Termux по ссылке:
-
-https://github.com/termux/termux-app/releases
-
-ВЕРСИЯ ИЗ Google Play НЕ БУДЕТ РАБОТАТЬ
+Скачиваем Termux по ссылке: https://github.com/termux/termux-app/releases (ВЕРСИЯ ИЗ Google Play НЕ БУДЕТ РАБОТАТЬ)
 
 И еще скачиваем FX File Explorer, можно из Google Play
 
